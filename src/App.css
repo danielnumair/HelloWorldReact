@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: chocolate;
+}
+
+p {
+  color: brown;
+  font-weight: bold;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
